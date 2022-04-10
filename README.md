@@ -1,2 +1,1 @@
-# Recipe-application
- 
+# Spring Boot Recipe Application
